@@ -1,13 +1,5 @@
-# A Complete Intro to React
+# Referencias
 
-Welcome to a complete intro to React! The site actual workshop material for this repo can be found [here][gh-page]. On the master branch you will find the completed project. On the start branch you will find the barebones boilerplater of the project designed to help you get started.
-
-## Contributing
-
-Please contribute, file issues, and make PRs. More than anything I'm sure there are typos abounding.
-
-## License
-
-MIT
-
-[gh-page]: http://btholt.github.io/complete-intro-to-react/
+- ```.babelrc``` => este es el archivo de configuración para Babel, quién se encargará de transpilar nuestro código ES6 a js entendible por el browser
+- ```.eslintrc.json```=> archivo de configuración para nuestro ESlinter, encargado de revisar nuestro código y validarlo
+- ```.eslintignore``` => este archivo, al igual que .gitignore, ignorará los directorios que añadamos al momento de correr nuestro ESlinter
